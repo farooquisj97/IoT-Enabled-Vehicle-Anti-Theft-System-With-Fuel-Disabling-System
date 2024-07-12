@@ -1,0 +1,5 @@
+#[Desktop Entry]
+#Type=Application
+#Name=run_main_prog
+#Exec=/usr/bin/lxterminal -e "sh /home/rpi/on_start.sh"
+#Terminal=true

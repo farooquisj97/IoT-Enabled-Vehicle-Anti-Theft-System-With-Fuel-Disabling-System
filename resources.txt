@@ -1,0 +1,14 @@
+
+
+using gps module on rpi 4:
+https://maker.pro/raspberry-pi/tutorial/how-to-use-a-gps-receiver-with-raspberry-pi-4
+https://pypi.org/project/py-gpsd2/
+
+using remote GPIO on Thingsboard for rpi:
+https://thingsboard.io/docs/samples/raspberry/gpio/
+
+using paho-mqtt:
+https://pypi.org/project/paho-mqtt/
+# import paho.mqtt.client as mqtt
+# client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2)
+
