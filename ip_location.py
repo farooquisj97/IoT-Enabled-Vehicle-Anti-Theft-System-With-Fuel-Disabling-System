@@ -44,7 +44,7 @@ def main():
     broker_address = "demo.thingsboard.io"
     port = 1883
     topic = "v1/devices/me/telemetry"
-    username = "Tracker1id0987654321"  # Your username or device ID
+    username = "Your username or device ID"
     send_ip_location_to_mqtt(broker_address, port, topic, username)
 
 if __name__ == "__main__":
