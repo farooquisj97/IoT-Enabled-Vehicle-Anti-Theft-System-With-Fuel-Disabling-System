@@ -10,7 +10,7 @@ import relay
 import time
 
 THINGSBOARD_HOST = 'demo.thingsboard.io'
-ACCESS_TOKEN = 'Tracker1id0987654321'
+ACCESS_TOKEN = "Your username or device ID"
 
 TRIG = 7
 USER = 11
