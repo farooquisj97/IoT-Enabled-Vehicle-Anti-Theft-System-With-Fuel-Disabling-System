@@ -2,11 +2,11 @@ import requests
 
 def main(message):
 	# Telegram Bot API token (from BotFather)
-	telegram_token = '6766930316:AAGUDAJzTdCvdnzLLzjEsk3wuD5rMZsOhgQ' # Replace with you telegram token
+	telegram_token = 'Replace with you telegram token'
 
 
 	# Your chat ID (from your bot or other method)
-	chat_id = '6771796827'  # Replace with your chat ID
+	chat_id = 'Replace with your chat ID'
 
 	# URL for sending a message
 	telegram_url = f"https://api.telegram.org/bot{telegram_token}/sendMessage"
