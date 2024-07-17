@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 import json
 
 THINGSBOARD_HOST = 'demo.thingsboard.io'
-ACCESS_TOKEN = 'Tracker1id0987654321'
+ACCESS_TOKEN = "Your username or device ID"
 
 # We assume that all GPIOs are LOW
 gpio_state = {
